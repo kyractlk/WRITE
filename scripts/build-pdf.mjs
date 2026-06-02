@@ -9,130 +9,203 @@ const inputMd = path.join(root, 'README.md');
 const outputPdf = path.join(root, 'B1-Plus-Writing-Masterpack.pdf');
 const tempMd = path.join(root, '.readme-for-pdf.md');
 
-let md = fs.readFileSync(inputMd, 'utf8');
+/** Strip decorative emoji (keep Turkish/English letters). */
+function stripEmoji(text) {
+  return text
+    .replace(
+      /[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}\u{FE00}-\u{FE0F}\u{200D}\u{20E3}\u{E0020}-\u{E007F}]/gu,
+      ''
+    )
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
 
-// Expand <details> so essay tables appear in PDF
-md = md.replace(
-  /<details>\s*<summary><b>([\s\S]*?)<\/b><\/summary>\s*/gi,
-  '\n\n#### $1\n\n'
-);
-md = md.replace(/<\/details>/gi, '\n');
+function toPlainDocument(md) {
+  // Expand <details>
+  md = md.replace(
+    /<details>\s*<summary>(?:<b>)?([\s\S]*?)(?:<\/b>)?<\/summary>\s*/gi,
+    '\n\n### $1\n\n'
+  );
+  md = md.replace(/<\/details>/gi, '\n');
 
-// GitHub alert boxes → styled HTML blocks
-const alertTypes = {
-  TIP: { bg: '#dbeafe', border: '#2563eb', label: '💡 TIP' },
-  IMPORTANT: { bg: '#fef3c7', border: '#d97706', label: '⭐ ÖNEMLİ' },
-  WARNING: { bg: '#fee2e2', border: '#dc2626', label: '⚠️ UYARI' },
-  CAUTION: { bg: '#f3e8ff', border: '#7c3aed', label: '🔀 DİKKAT' },
-  NOTE: { bg: '#d1fae5', border: '#059669', label: '📝 NOT' },
-};
+  // GitHub alerts → plain labelled paragraph
+  md = md.replace(
+    /> \[!(TIP|IMPORTANT|WARNING|CAUTION|NOTE)\]\s*\n((?:> .*\n?)+)/gi,
+    (_, type, body) => {
+      const text = body
+        .split('\n')
+        .map((line) => line.replace(/^> ?/, ''))
+        .join(' ')
+        .replace(/\*\*/g, '')
+        .trim();
+      const label = { TIP: 'IPUCU', IMPORTANT: 'ONEMLI', WARNING: 'UYARI', CAUTION: 'DIKKAT', NOTE: 'NOT' }[type] || type;
+      return `\n\n${label}: ${text}\n\n`;
+    }
+  );
 
-md = md.replace(
-  /> \[!(TIP|IMPORTANT|WARNING|CAUTION|NOTE)\]\s*\n((?:> .*\n?)+)/gi,
-  (_, type, body) => {
-    const style = alertTypes[type.toUpperCase()];
-    const text = body
-      .split('\n')
-      .map((line) => line.replace(/^> ?/, ''))
-      .join('\n')
-      .trim();
-    return `\n<div class="alert alert-${type.toLowerCase()}" style="background:${style.bg};border-left:4px solid ${style.border};padding:12px 16px;margin:16px 0;border-radius:6px;">
-<strong>${style.label}</strong><br/><br/>
-${text}
-</div>\n\n`;
-  }
-);
+  // Remove badge / image markdown
+  md = md.replace(/!\[[^\]]*\]\([^)]+\)/g, '');
 
-// Remove center div wrappers (keep content)
-md = md.replace(/<div align="center">\s*/gi, '\n');
-md = md.replace(/<\/div>\s*/gi, '\n');
+  // Remove HTML tags
+  md = md.replace(/<[^>]+>/g, '');
 
-// Mermaid → simple text note for PDF
-md = md.replace(/```mermaid[\s\S]*?```/gi, '\n> *Şema: Cause = WHY · Effect = SO WHAT · Opinion = I BELIEVE*\n');
+  // Mermaid → one plain line
+  md = md.replace(
+    /```mermaid[\s\S]*?```/gi,
+    '\nCause = WHY | Effect = SO WHAT | Opinion = I BELIEVE\n'
+  );
 
-fs.writeFileSync(tempMd, md, 'utf8');
+  // Markdown links → text only (document style)
+  md = md.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+
+  // Remove PDF build line from output doc
+  md = md.replace(/^📄.*build:pdf.*\n/gm, '');
+
+  // Horizontal rules → blank line
+  md = md.replace(/^---+\s*$/gm, '\n');
+
+  // Code fences for flowchart blocks → plain
+  md = md.replace(/```[\w]*\n[\s\S]*?```/g, (block) => {
+    if (block.includes('flowchart')) return '\n';
+    return block;
+  });
+
+  // Line-by-line emoji cleanup in headings
+  md = md
+    .split('\n')
+    .map((line) => {
+      if (/^#{1,6}\s/.test(line)) return stripEmoji(line);
+      return line;
+    })
+    .join('\n');
+
+  // Collapse excessive blank lines
+  md = md.replace(/\n{4,}/g, '\n\n\n');
+
+  // Document title block (plain)
+  const header = `B1+ Yazma Sinavi Rehberi
+Cause, Effect ve Opinion Essay
+
+---
+
+`;
+
+  return header + md.trim() + '\n';
+}
+
+const plainMd = toPlainDocument(fs.readFileSync(inputMd, 'utf8'));
+fs.writeFileSync(tempMd, plainMd, 'utf8');
 
 const css = `
 @page {
-  margin: 18mm 15mm;
   size: A4;
+  margin: 20mm 18mm;
+}
+* {
+  box-shadow: none !important;
+  text-shadow: none !important;
 }
 body {
-  font-family: 'DejaVu Sans', 'Noto Sans', 'Segoe UI', Arial, sans-serif;
-  font-size: 10.5pt;
-  line-height: 1.45;
-  color: #1e293b;
-  max-width: 100%;
+  font-family: Arial, Helvetica, "Liberation Sans", sans-serif;
+  font-size: 11pt;
+  line-height: 1.5;
+  color: #000;
+  background: #fff;
 }
 h1 {
-  color: #1e3a8a;
-  font-size: 22pt;
-  border-bottom: 3px solid #2563eb;
-  padding-bottom: 8px;
+  font-size: 18pt;
+  font-weight: bold;
+  margin: 0 0 12pt 0;
+  color: #000;
+  border: none;
   page-break-after: avoid;
 }
 h2 {
-  color: #1d4ed8;
   font-size: 14pt;
-  margin-top: 22px;
-  border-bottom: 1px solid #cbd5e1;
-  padding-bottom: 4px;
+  font-weight: bold;
+  margin: 18pt 0 8pt 0;
+  color: #000;
+  border: none;
   page-break-after: avoid;
 }
 h3 {
-  color: #334155;
   font-size: 12pt;
+  font-weight: bold;
+  margin: 14pt 0 6pt 0;
+  color: #000;
   page-break-after: avoid;
 }
 h4 {
-  color: #475569;
   font-size: 11pt;
+  font-weight: bold;
+  margin: 12pt 0 4pt 0;
+  color: #000;
+}
+p {
+  margin: 0 0 8pt 0;
+  text-align: left;
 }
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: 10px 0 16px;
-  font-size: 9pt;
-  page-break-inside: auto;
+  margin: 8pt 0 12pt 0;
+  font-size: 10pt;
 }
-tr { page-break-inside: avoid; page-break-after: auto; }
-th {
-  background: #2563eb;
-  color: white;
-  padding: 6px 8px;
-  text-align: left;
-}
-td {
-  border: 1px solid #cbd5e1;
-  padding: 5px 7px;
+th, td {
+  border: 1px solid #000;
+  padding: 4pt 6pt;
   vertical-align: top;
+  text-align: left;
+  background: #fff !important;
+  color: #000 !important;
 }
-tr:nth-child(even) td { background: #f8fafc; }
+th {
+  font-weight: bold;
+}
+tr:nth-child(even) td {
+  background: #fff !important;
+}
 blockquote {
-  border-left: 4px solid #94a3b8;
-  margin: 12px 0;
-  padding: 8px 14px;
-  background: #f1f5f9;
-  color: #334155;
+  margin: 8pt 0 8pt 12pt;
+  padding: 0;
+  border: none;
+  background: none;
+  color: #000;
+  font-style: normal;
 }
 code {
-  background: #f1f5f9;
-  padding: 1px 4px;
-  border-radius: 3px;
-  font-size: 9pt;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  background: none;
+  padding: 0;
 }
 pre {
-  background: #0f172a;
-  color: #e2e8f0;
-  padding: 12px;
-  border-radius: 6px;
-  font-size: 8.5pt;
-  overflow-x: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  background: none;
+  color: #000;
+  border: none;
+  padding: 0;
+  margin: 8pt 0;
+  white-space: pre-wrap;
 }
-a { color: #2563eb; text-decoration: none; }
-img { max-width: 100%; }
-.alert { page-break-inside: avoid; }
-hr { border: none; border-top: 1px solid #e2e8f0; margin: 20px 0; }
+a {
+  color: #000;
+  text-decoration: none;
+}
+img {
+  display: none !important;
+}
+hr {
+  display: none;
+}
+ul, ol {
+  margin: 0 0 8pt 0;
+  padding-left: 18pt;
+}
+li {
+  margin-bottom: 4pt;
+}
 `;
 
 const pdf = await mdToPdf(
@@ -142,8 +215,8 @@ const pdf = await mdToPdf(
     css,
     pdf_options: {
       format: 'A4',
-      printBackground: true,
-      margin: { top: '15mm', bottom: '15mm', left: '12mm', right: '12mm' },
+      printBackground: false,
+      margin: { top: '20mm', bottom: '20mm', left: '18mm', right: '18mm' },
     },
     launch_options: {
       executablePath: '/usr/local/bin/google-chrome',
@@ -158,4 +231,4 @@ if (!pdf) {
 }
 
 const stats = fs.statSync(outputPdf);
-console.log(`PDF created: ${outputPdf} (${(stats.size / 1024).toFixed(1)} KB)`);
+console.log(`Plain PDF: ${outputPdf} (${(stats.size / 1024).toFixed(1)} KB)`);
