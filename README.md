@@ -13,6 +13,8 @@
 
 [🇹🇷 Türkçe rehber](#-i̇çindekiler) · [Essay örnekleri](#-örnek-essay-haritası) · [Kelime bankası](#-mega-kelime-bankası-150-kelime) · [Sınav günü](#-sınav-günü-zaman-çizelgesi)
 
+📄 **PDF indir:** [B1-Plus-Writing-Masterpack.pdf](./B1-Plus-Writing-Masterpack.pdf) · Yerel üretim: `npm run build:pdf`
+
 </div>
 
 ---

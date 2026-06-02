@@ -1,0 +1,3 @@
+node_modules/
+.readme-for-pdf.md
+package-lock.json
