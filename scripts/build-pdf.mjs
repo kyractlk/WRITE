@@ -5,9 +5,14 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, '..');
-const inputMd = path.join(root, 'README.md');
-const outputPdf = path.join(root, 'B1-Plus-Writing-Masterpack.pdf');
-const tempMd = path.join(root, '.readme-for-pdf.md');
+const inputMd = path.resolve(root, process.argv[2] || 'README.md');
+const outputPdf = path.resolve(
+  root,
+  process.argv[3] ||
+    (inputMd.includes('AYSTECH') ? 'aystech-vocabulary-bank.pdf' : 'B1-Plus-Writing-Masterpack.pdf')
+);
+const tempMd = path.join(root, `.pdf-temp-${path.basename(inputMd)}`);
+const isVocabBank = /AYSTECH|vocabulary/i.test(inputMd);
 
 /** Strip decorative emoji (keep Turkish/English letters). */
 function stripEmoji(text) {
@@ -82,14 +87,24 @@ function toPlainDocument(md) {
   // Collapse excessive blank lines
   md = md.replace(/\n{4,}/g, '\n\n\n');
 
-  // Document title block (plain)
+  if (isVocabBank) {
+    const header = `AYSTECH
+Gaziantep Universitesi Ingilizce Yazma Kelime Bankasi
+Oxford English File / Inside Reading
+A2 | B1 | B1+
+
+---
+
+`;
+    return header + md.trim() + '\n';
+  }
+
   const header = `B1+ Yazma Sinavi Rehberi
 Cause, Effect ve Opinion Essay
 
 ---
 
 `;
-
   return header + md.trim() + '\n';
 }
 
@@ -149,7 +164,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin: 8pt 0 12pt 0;
-  font-size: 10pt;
+  font-size: ${isVocabBank ? '7.5pt' : '10pt'};
 }
 th, td {
   border: 1px solid #000;

@@ -1,3 +1,4 @@
 node_modules/
 .readme-for-pdf.md
+.pdf-temp-*
 package-lock.json

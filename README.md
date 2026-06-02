@@ -13,7 +13,9 @@
 
 [🇹🇷 Türkçe rehber](#-i̇çindekiler) · [Essay örnekleri](#-örnek-essay-haritası) · [Kelime bankası](#-mega-kelime-bankası-150-kelime) · [Sınav günü](#-sınav-günü-zaman-çizelgesi)
 
-📄 **PDF indir:** [B1-Plus-Writing-Masterpack.pdf](./B1-Plus-Writing-Masterpack.pdf) · Yerel üretim: `npm run build:pdf`
+📄 **PDF indir:** [B1-Plus-Writing-Masterpack.pdf](./B1-Plus-Writing-Masterpack.pdf) · `npm run build:pdf`
+
+📚 **AYSTECH Kelime Bankası (540 kelime):** [AYSTECH-Vocabulary-Bank.md](./AYSTECH-Vocabulary-Bank.md) · PDF: [aystech-vocabulary-bank.pdf](./aystech-vocabulary-bank.pdf) · `npm run build:pdf:aystech`
 
 </div>
 

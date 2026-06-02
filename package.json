@@ -4,7 +4,9 @@
   "description": "<div align=\"center\">",
   "main": "index.js",
   "scripts": {
-    "build:pdf": "node scripts/build-pdf.mjs",
+    "build:vocab": "node scripts/generate-vocabulary-bank.mjs",
+    "build:pdf": "node scripts/build-pdf.mjs README.md B1-Plus-Writing-Masterpack.pdf",
+    "build:pdf:aystech": "node scripts/generate-vocabulary-bank.mjs && node scripts/build-pdf.mjs AYSTECH-Vocabulary-Bank.md aystech-vocabulary-bank.pdf",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
