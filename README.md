@@ -1,356 +1,816 @@
-# B1+ Yazma Sınavı Rehberi — Cause, Effect ve Opinion Essay
+<div align="center">
 
-Bu depo, B1+ İngilizce yazma sınavı için **Cause**, **Effect** ve **Opinion** essay türlerini kapsar: taktikler, sevilen kalıplar, **250+ kelimelik** örnek essay’ler (cümle cümle Türkçe), kelime tabloları ve sınav kontrol listesi.
+# 📚 B1+ Professional Writing Masterpack
 
----
+### Cause · Effect · Opinion · Cause & Effect Combined
 
-## İçindekiler
+![Level](https://img.shields.io/badge/Seviye-B1%2B-2563EB?style=for-the-badge&logo=graduated&logoColor=white)
+![Words](https://img.shields.io/badge/Hedef-250%2B_kelime-059669?style=for-the-badge)
+![Essays](https://img.shields.io/badge/Örnek_Essay-6-D97706?style=for-the-badge)
+![Vocabulary](https://img.shields.io/badge/Kelime-150%2B-7C3AED?style=for-the-badge)
 
-1. [Genel yapı ve bağlaçlar](#1-genel-yapı-ve-bağlaçlar)
-2. [Sınav taktikleri ve trick’ler](#2-sınav-taktikleri-ve-trickler)
-3. [Cause Essay](#3-cause-essay)
-4. [Effect Essay](#4-effect-essay)
-5. [Opinion Essay](#5-opinion-essay)
-6. [Premium kalıp tablosu](#6-premium-kalıp-tablosu)
-7. [Ezberlenebilir mini bloklar](#7-ezberlenebilir-mini-bloklar)
-8. [Sınav kontrol listesi](#8-sınav-kontrol-listesi)
-9. [Hızlı karşılaştırma](#9-hızlı-karşılaştırma)
+**Sınav odaklı · Cümle cümle Türkçe · Kelime tabloları · Renkli trick kutuları**
 
----
+[🇹🇷 Türkçe rehber](#-i̇çindekiler) · [Essay örnekleri](#-örnek-essay-haritası) · [Kelime bankası](#-mega-kelime-bankası-150-kelime) · [Sınav günü](#-sınav-günü-zaman-çizelgesi)
 
-## 1. Genel yapı ve bağlaçlar
-
-| Bölüm | Ne yaparsın? |
-|--------|----------------|
-| **Introduction** | Konuyu tanıt + ana fikri (thesis) yaz |
-| **Body 1** | Bir ana neden/sonuç/görüş + örnek |
-| **Body 2** | İkinci ana neden/sonuç/görüş + örnek |
-| **Body 3** (isteğe bağlı) | Üçüncü nokta veya karşı görüş (opinion) |
-| **Conclusion** | Özetle; yeni bilgi ekleme |
-
-**Bağlaçlar:**
-
-| Tür | Örnekler |
-|-----|----------|
-| Sebep | because, since, due to, as a result of, one reason is… |
-| Sonuç | therefore, consequently, as a result, so, this leads to… |
-| Görüş | In my opinion, I believe, I think, It seems to me that… |
-| Örnek | For example, For instance, such as |
-| Karşıt | However, On the other hand, Although |
-
-**Paragraf formülü (PEEL):**
-
-- **P** = Point (topic sentence)
-- **E** = Explain
-- **E** = Example (*For instance…*)
-- **L** = Link (sonraki paragrafa bağla)
+</div>
 
 ---
 
-## 2. Sınav taktikleri ve trick’ler
+## 🎨 Bu dokümanda renkler ne anlama geliyor?
 
-### Altın plan (yazmadan önce ~5 dk)
+| Simge / Kutu | Anlam | Ne zaman bak? |
+|:---:|:---|:---|
+| 🟦 `TIP` | Puan kazandıran trick | Yazmadan önce |
+| 🟨 `IMPORTANT` | Thesis / zorunlu yapı | Her essay türünde |
+| 🟥 `WARNING` | Sık hata — puan kaybı | Kontrol listesinde |
+| 🟩 `NOTE` | Kelime / gramer notu | Kelime çalışırken |
+| 🟪 `CAUTION` | Cause ↔ Effect karışıklığı | Konu seçerken |
+| 📊 Tablo | Essay cümle + Türkçe | Ezber ve taklit |
+| 📦 `<details>` | Uzun essay — tıkla aç | Derin çalışma |
 
-| Adım | Ne yap? | Trick |
-|------|---------|--------|
-| 1 | Soru tipini işaretle | Cause = *why*, Effect = *what happens*, Opinion = *I believe* |
-| 2 | 3 ana fikir yaz | Her madde = 1 body paragraf |
-| 3 | Her maddeye 1 örnek | Örnek olmadan paragraf zayıf kalır |
-| 4 | Thesis’i girişin **sonuna** koy | Sınavcı buraya bakar |
-| 5 | Son 3 dk kontrol | *their/there*, *affect/effect* |
-
-### Cause vs Effect vs Opinion
-
-| Essay | Gövde odak | Tipik soru |
-|-------|-------------|------------|
-| **Cause** | %70–80 **neden** | Why? What causes…? |
-| **Effect** | %70–80 **sonuç** | What are the effects…? |
-| **Opinion** | %70–80 **görüş + gerekçe** | Agree? Your opinion? |
-
-### Zaman (tense) trick’i
-
-| Konu | Tercih |
-|------|--------|
-| Genel / güncel sorun | Present Simple |
-| Kişisel örnek | Past Simple |
-| Trend | Present Perfect (*has increased*) |
-
-### Kelime çeşitliliği
-
-| Zayıf | Güçlü (B1+) |
-|-------|-------------|
-| bad | harmful / negative / damaging |
-| good | beneficial / positive / valuable |
-| many | numerous / a great deal of |
-| show | demonstrate / indicate / reveal |
-| think | believe / argue / maintain |
-
-### Sık hatalar
-
-| Yanlış | Doğru |
-|--------|--------|
-| *have an affect* | *have an **effect*** (isim) |
-| *pollution effects health* | *pollution **affects** health* (fiil) |
-| *informations* | *information* |
-| *more better* | *much better* |
-
-### Sevilen giriş kalıpları
-
-- *Nowadays, … is a common issue.*
-- *There are several reasons why…*
-- *… has serious effects on…*
-- *In my opinion, …*
-- *This essay will discuss…*
+> [!TIP]
+> **En hızlı sınav trick’i:** İlk 3 dakikada soruya şunu yaz: *Cause = WHY · Effect = SO WHAT · Opinion = I BELIEVE*
 
 ---
 
-## 3. Cause Essay
+## 📑 İçindekiler
 
-**Soru tipi:** *What are the causes of…? / Why does… happen?*
-
-**Konu:** *What are the causes of obesity among young people?* (~265 kelime)
-
-### Essay — cümle cümle Türkçe
-
-| # | English | Türkçe |
-|---|---------|--------|
-| **Introduction** |
-| 1 | Nowadays, obesity among young people has become a serious public health problem in many countries. | Günümüzde, gençler arasında obezite birçok ülkede ciddi bir halk sağlığı sorunu haline gelmiştir. |
-| 2 | Doctors and teachers are worried because this issue can lead to diabetes, heart disease and low self-confidence. | Doktorlar ve öğretmenler endişeli çünkü bu sorun diyabete, kalp hastalığına ve düşük özgüvene yol açabilir. |
-| 3 | Although genetics can play a role, I believe that lifestyle and environment are the main causes. | Genetik etkili olabilse de, bence yaşam tarzı ve çevre ana nedenlerdir. |
-| 4 | This essay will discuss three important causes: unhealthy diet, lack of physical activity and heavy advertising. | Bu yazı üç önemli nedeni ele alacaktır: sağlıksız beslenme, fiziksel aktivite eksikliği ve yoğun reklamcılık. |
-| **Body 1** |
-| 5 | First of all, many teenagers eat too much fast food, sugary drinks and processed snacks. | Öncelikle, birçok genç çok fazla fast food, şekerli içecek ve işlenmiş atıştırmalık tüketiyor. |
-| 6 | These products are often cheap, tasty and easy to buy on the way home from school. | Bu ürünler genellikle ucuz, lezzetli ve okuldan eve dönerken alınması kolaydır. |
-| 7 | As a result, young people consume more calories than they need, and they do not get enough vitamins or fibre. | Sonuç olarak gençler ihtiyaçlarından fazla kalori alır ve yeterli vitamin veya lif alamazlar. |
-| 8 | For instance, a daily habit of drinking large bottles of soda can add hundreds of extra calories every week. | Örneğin, her gün büyük şişeler gazlı içecek içmek her hafta yüzlerce fazla kalori ekleyebilir. |
-| **Body 2** |
-| 9 | Secondly, modern teenagers spend a great deal of time sitting in front of screens. | İkinci olarak, günümüz gençleri ekran karşısında oturarak çok zaman harcıyor. |
-| 10 | They use computers for homework, but they also watch videos and play online games for hours. | Ödev için bilgisayar kullanıyorlar ama aynı zamanda saatlerce video izleyip çevrimiçi oyun oynuyorlar. |
-| 11 | Consequently, they move less and burn fewer calories than previous generations did. | Bu nedenle önceki nesillere göre daha az hareket ediyor ve daha az kalori yakıyorlar. |
-| 12 | In many cities, parents are also afraid to let children play outside alone, so outdoor sport becomes less common. | Birçok şehirde ebeveynler de çocukların dışarıda yalnız oynamasına korktuğu için açık hava sporu daha az yaygın. |
-| **Body 3** |
-| 13 | Furthermore, food companies target young people with attractive advertisements on social media and television. | Ayrıca gıda şirketleri sosyal medya ve televizyonda çekici reklamlarla gençleri hedefliyor. |
-| 14 | Famous influencers often promote unhealthy products without explaining the risks clearly. | Ünlü fenomenler genellikle riskleri açıkça anlatmadan sağlıksız ürünleri tanıtıyor. |
-| 15 | Due to this constant marketing, teenagers may believe that sugary cereals or energy drinks are "cool" and normal. | Bu sürekli pazarlama yüzünden gençler şekerli gevrek veya enerji içeceklerinin "havalı" ve normal olduğuna inanabilir. |
-| 16 | This psychological pressure makes it harder for families to encourage balanced meals at home. | Bu psikolojik baskı, ailelerin evde dengeli yemekleri teşvik etmesini zorlaştırır. |
-| **Conclusion** |
-| 17 | To sum up, obesity in young people is mainly caused by poor eating habits, inactive lifestyles and aggressive advertising. | Özetle, gençlerde obezite esas olarak kötü beslenme alışkanlıkları, hareketsiz yaşam ve agresif reklamcılıktan kaynaklanır. |
-| 18 | Schools should offer better meals and more sport, while governments should regulate ads that target children. | Okullar daha iyi yemek ve daha fazla spor sunmalı; hükümetler çocukları hedefleyen reklamları düzenlemelidir. |
-| 19 | If society takes action early, the next generation will have a healthier future. | Toplum erken harekete geçerse gelecek nesil daha sağlıklı bir geleceğe sahip olacaktır. |
-
-### Cause — kelime tablosu
-
-| Kelime / İfade | Türkçe | Örnek cümle |
-|----------------|--------|-------------|
-| obesity | obezite | *Obesity can increase the risk of illness.* |
-| public health | halk sağlığı | *Public health programmes save lives.* |
-| lead to | -a yol açmak | *Stress can lead to sleep problems.* |
-| diabetes | diyabet | *Diabetes requires careful diet control.* |
-| genetics | genetik | *Genetics may influence body weight.* |
-| lifestyle | yaşam tarzı | *A healthy lifestyle includes exercise.* |
-| processed snacks | işlenmiş atıştırmalıklar | *Processed snacks often contain much salt.* |
-| calories | kalori | *Running burns a lot of calories.* |
-| fibre | lif | *Vegetables are rich in fibre.* |
-| consequently | sonuç olarak | *He ate little; consequently, he felt weak.* |
-| burn (calories) | yakmak | *Cycling helps you burn calories.* |
-| previous generations | önceki nesiller | *Previous generations walked more often.* |
-| target (v.) | hedeflemek | *Ads target young consumers.* |
-| influencer | fenomen | *The influencer advertised a new drink.* |
-| due to | -den dolayı | *The match was cancelled due to rain.* |
-| regulate | düzenlemek | *Laws regulate food advertising.* |
-| take action | harekete geçmek | *We must take action against pollution.* |
+| # | Bölüm |
+|---|--------|
+| 0 | [Hızlı karar ağacı](#-hızlı-karar-ağacı-hangi-essay) |
+| 1 | [Altın yapı & PEEL](#1--altın-yapı--peel-formülü) |
+| 2 | [Bağlaç & kalıp sözlüğü](#2--bağlaç--kalıp-sözlüğü-60-ifade) |
+| 3 | [Cause Essay ×2](#3--cause-essay-neden-odaklı) |
+| 4 | [Effect Essay ×2](#4--effect-essay-sonuç-odaklı) |
+| 5 | [Opinion Essay ×2](#5--opinion-essay-görüş-odaklı) |
+| 6 | [Cause & Effect birlikte](#6--cause--effect-birlikte) |
+| 7 | [Mega kelime bankası](#-mega-kelime-bankası-150-kelime) |
+| 8 | [Formal ↔ informal](#8--formal--informal-dönüşüm) |
+| 9 | [Puan rubriği](#9--sınav-puan-rubriği-öğretmen-gözüyle) |
+| 10 | [Sınav günü planı](#-sınav-günü-zaman-çizelgesi) |
+| 11 | [20 alıştırma konusu](#11--20-alıştırma-konusu) |
 
 ---
 
-## 4. Effect Essay
+## 🗺️ Örnek essay haritası
 
-**Soru tipi:** *What are the effects of…? / How does… affect…?*
-
-**Konu:** *What are the effects of air pollution in big cities?* (~258 kelime)
-
-### Essay — cümle cümle Türkçe
-
-| # | English | Türkçe |
-|---|---------|--------|
-| **Introduction** |
-| 1 | Air pollution is one of the most serious environmental problems facing large cities today. | Hava kirliliği, büyük şehirlerin bugün karşılaştığı en ciddi çevre sorunlarından biridir. |
-| 2 | It is caused mainly by traffic, factories and the burning of fossil fuels. | Esas olarak trafik, fabrikalar ve fosil yakıtların yakılmasından kaynaklanır. |
-| 3 | Although people often discuss the causes, the effects on health, the economy and daily life are equally worrying. | İnsanlar genellikle nedenleri tartışsa da sağlık, ekonomi ve günlük yaşam üzerindeki etkiler de aynı derecede endişe vericidir. |
-| 4 | This essay will examine three major effects of urban air pollution. | Bu yazı kentsel hava kirliliğinin üç büyük etkisini inceleyecektir. |
-| **Body 1 — Health** |
-| 5 | One of the most dangerous effects is on human health. | En tehlikeli etkilerden biri insan sağlığı üzerindedir. |
-| 6 | When people breathe dirty air every day, fine particles enter their lungs and bloodstream. | İnsanlar her gün kirli hava soluduğunda ince parçacıklar akciğerlerine ve kan dolaşımına girer. |
-| 7 | As a result, rates of asthma, bronchitis and heart attacks increase, especially among children and the elderly. | Sonuç olarak astım, bronşit ve kalp krizi oranları özellikle çocuklar ve yaşlılarda artar. |
-| 8 | For example, in some megacities, schools must close on days when pollution levels are extremely high. | Örneğin bazı megakentlerde kirlilik seviyesi aşırı yüksek olduğunda okullar kapanmak zorunda kalır. |
-| **Body 2 — Economy** |
-| 9 | Another significant effect is economic. | Bir diğer önemli etki ekonomiktir. |
-| 10 | Governments spend billions on hospital treatment and sick leave because of pollution-related illnesses. | Hükümetler kirlilik kaynaklı hastalıklar yüzünden hastane tedavisi ve hastalık iznine milyarlar harcar. |
-| 11 | Moreover, tourism can suffer when visitors see smog instead of clear skies. | Dahası, ziyaretçiler berrak gökyüzü yerine sis dumanı gördüğünde turizm zarar görebilir. |
-| 12 | Consequently, local businesses such as hotels and restaurants may earn less money during polluted seasons. | Sonuç olarak otel ve restoran gibi yerel işletmeler kirli mevsimlerde daha az kazanabilir. |
-| **Body 3 — Daily life** |
-| 13 | Air pollution also affects the quality of everyday life in cities. | Hava kirliliği şehirlerde günlük yaşam kalitesini de etkiler. |
-| 14 | Residents often wear masks, keep windows closed and avoid outdoor exercise, even in summer. | Sakinler genellikle maske takar, pencereleri kapalı tutar ve yazın bile açık hava egzersizinden kaçınır. |
-| 15 | This can lead to stress and isolation, because people spend less time in parks or meeting friends outside. | Bu stres ve yalnızlığa yol açabilir çünkü insanlar parklarda veya dışarıda arkadaşlarıyla buluşarak daha az zaman geçirir. |
-| 16 | In addition, dirty air damages historical buildings and makes cities look less attractive. | Ayrıca kirli hava tarihi yapılara zarar verir ve şehirleri daha az çekici gösterir. |
-| **Conclusion** |
-| 17 | In conclusion, air pollution in big cities harms health, reduces economic growth and lowers the quality of daily life. | Sonuç olarak büyük şehirlerde hava kirliliği sağlığa zarar verir, ekonomik büyümeyi azaltır ve günlük yaşam kalitesini düşürür. |
-| 18 | Therefore, cities should invest in public transport, clean energy and green zones. | Bu nedenle şehirler toplu taşımaya, temiz enerjiye ve yeşil alanlara yatırım yapmalıdır. |
-| 19 | If action is taken now, future citizens will be able to breathe safer air and enjoy healthier urban life. | Şimdi harekete geçilirse gelecekteki vatandaşlar daha güvenli hava soluyup daha sağlıklı bir kent yaşamının tadını çıkarabilecektir. |
-
-### Effect — kelime tablosu
-
-| Kelime / İfade | Türkçe | Örnek cümle |
-|----------------|--------|-------------|
-| environmental | çevresel | *Environmental laws protect nature.* |
-| fossil fuels | fosil yakıtlar | *Coal and oil are fossil fuels.* |
-| urban | kentsel | *Urban areas are often noisy.* |
-| fine particles | ince parçacıklar | *Fine particles come from car exhaust.* |
-| bloodstream | kan dolaşımı | *Medicine enters the bloodstream quickly.* |
-| asthma | astım | *Cold air can trigger asthma.* |
-| bronchitis | bronşit | *He stayed home because of bronchitis.* |
-| the elderly | yaşlılar | *The elderly need special care in winter.* |
-| megacity | megakent | *Tokyo is a famous megacity.* |
-| sick leave | hastalık izni | *She is on sick leave this week.* |
-| smog | sis dumanı | *Smog covered the city centre.* |
-| consequently | sonuç olarak | *Prices rose; consequently, sales fell.* |
-| wear masks | maske takmak | *Many people wear masks on polluted days.* |
-| isolation | yalnızlık | *Social isolation affects mental health.* |
-| invest in | yatırım yapmak | *The city invested in new buses.* |
-| green zones | yeşil alanlar | *Green zones improve air quality.* |
+| Tür | Konu | Kelime | Tablo |
+|-----|------|:------:|:-----:|
+| **Cause #1** | Gençlerde obezite nedenleri | ~265 | [Aç](#cause-essay-1--obezite) |
+| **Cause #2** | Genç işsizlik nedenleri | ~270 | [Aç](#cause-essay-2--genç-i̇şsizlik) |
+| **Effect #1** | Büyük şehirlerde hava kirliliği etkileri | ~258 | [Aç](#effect-essay-1--hava-kirliliği) |
+| **Effect #2** | Aşırı sosyal medya etkileri | ~275 | [Aç](#effect-essay-2--sosyal-medya) |
+| **Opinion #1** | Üniversite ücretsiz mi? | ~272 | [Aç](#opinion-essay-1--ücretsiz-üniversite) |
+| **Opinion #2** | Okul ödevleri yasaklanmalı mı? | ~268 | [Aç](#opinion-essay-2--ödev-yasağı) |
 
 ---
 
-## 5. Opinion Essay
+## 🔀 Hızlı karar ağacı: Hangi essay?
 
-**Soru tipi:** *Do you agree or disagree? / What is your opinion?*
+```mermaid
+flowchart TD
+    A[Soru kelimesini oku] --> B{WHY / CAUSES?}
+    B -->|Evet| C[CAUSE Essay]
+    A --> D{EFFECTS / RESULTS?}
+    D -->|Evet| E[EFFECT Essay]
+    A --> F{AGREE / OPINION?}
+    F -->|Evet| G[OPINION Essay]
+    A --> H{CAUSES AND EFFECTS?}
+    H -->|Evet| I[İkisini birleştir]
+    C --> J[Gövde: %80 neden]
+    E --> K[Gövde: %80 sonuç]
+    G --> L[Thesis + However]
+```
 
-**Konu:** *Should university education be free for everyone?* (~272 kelime)
-
-### Essay — cümle cümle Türkçe
-
-| # | English | Türkçe |
-|---|---------|--------|
-| **Introduction** |
-| 1 | Access to higher education is a hot topic in many countries today. | Yükseköğretime erişim bugün birçok ülkede sıcak bir tartışma konusudur. |
-| 2 | Some people argue that university should be completely free, while others believe students should pay at least part of the cost. | Kimi insanlar üniversitenin tamamen ücretsiz olması gerektiğini savunur; kimileri öğrencilerin en azından maliyetin bir kısmını ödemesi gerektiğine inanır. |
-| 3 | **In my opinion, public universities should be free for students who pass entrance exams and maintain good academic results.** | **Bence, giriş sınavını geçen ve iyi akademik sonuçları sürdüren öğrenciler için devlet üniversiteleri ücretsiz olmalıdır.** |
-| 4 | I strongly believe this policy would create a fairer society and a stronger economy in the long term. | Bu politikanın uzun vadede daha adil bir toplum ve daha güçlü bir ekonomi yaratacağına kesinlikle inanıyorum. |
-| **Body 1 — Equality** |
-| 5 | First of all, free university education gives talented young people from poor families a real chance to succeed. | Öncelikle ücretsiz üniversite eğitimi, yoksul ailelerden yetenekli gençlere başarı için gerçek bir şans verir. |
-| 6 | At the moment, many intelligent students cannot afford tuition fees, accommodation and books. | Şu anda birçok zeki öğrenci öğrenim ücreti, barınma ve kitap masraflarını karşılayamıyor. |
-| 7 | As a result, they take low-paid jobs instead of studying, and society loses their potential. | Sonuç olarak okumak yerine düşük ücretli işlere girerler ve toplum onların potansiyelini kaybeder. |
-| 8 | For instance, a future doctor or engineer might never enter university simply because of money. | Örneğin geleceğin bir doktoru veya mühendisi sadece para yüzünden üniversiteye hiç giremeyebilir. |
-| **Body 2 — Economy** |
-| 9 | Secondly, educated citizens benefit the whole country. | İkinci olarak, eğitimli vatandaşlar tüm ülkeye fayda sağlar. |
-| 10 | Graduates usually pay more taxes, create new businesses and work in important sectors such as health and technology. | Mezunlar genellikle daha fazla vergi öder, yeni işletmeler kurar ve sağlık ve teknoloji gibi önemli sektörlerde çalışır. |
-| 11 | Therefore, when the state invests in free education, it often receives the money back through economic growth. | Bu nedenle devlet ücretsiz eğitime yatırım yaptığında parayı çoğu zaman ekonomik büyüme yoluyla geri alır. |
-| 12 | Countries like Germany have shown that low or zero tuition fees do not necessarily destroy quality. | Almanya gibi ülkeler düşük veya sıfır öğrenim ücretinin kaliteyi mutlaka yok etmediğini göstermiştir. |
-| **Body 3 — Counter-argument** |
-| 13 | Of course, critics say that free education is too expensive for the government. | Elbette eleştirmenler ücretsiz eğitimin hükümet için çok pahalı olduğunu söyler. |
-| 14 | **However**, I think costs can be controlled if universities focus on essential subjects and limit places for students who fail exams repeatedly. | **Ancak** üniversiteler temel derslere odaklanır ve sınavda tekrar tekrar başarısız olan öğrenciler için kontenjanı sınırlarsa maliyetlerin kontrol edilebileceğini düşünüyorum. |
-| 15 | It is also fair to ask high-income graduates to pay a small extra tax later in their careers. | Yüksek gelirli mezunlardan kariyerlerinin ilerleyen döneminde küçük bir ek vergi istemek de adildir. |
-| **Conclusion** |
-| 16 | To conclude, although free university education requires public money, it promotes equality and national development. | Sonuç olarak ücretsiz üniversite eğitimi kamu parası gerektirse de eşitliği ve ulusal kalkınmayı destekler. |
-| 17 | From my point of view, a country that educates its young people without discrimination invests in its own future. | Benim görüşüme göre gençlerini ayrımcılık yapmadan eğiten bir ülke kendi geleceğine yatırım yapar. |
-| 18 | For these reasons, I fully support making university free for deserving students. | Bu nedenlerle, hak eden öğrenciler için üniversiteyi ücretsiz yapmayı tamamen destekliyorum. |
-
-### Opinion — kelime tablosu
-
-| Kelime / İfade | Türkçe | Örnek cümle |
-|----------------|--------|-------------|
-| access (to) | erişim | *Everyone deserves access to education.* |
-| higher education | yükseköğretim | *Higher education opens many doors.* |
-| hot topic | sıcak konu | *Climate change is a hot topic.* |
-| argue | savunmak | *Experts argue that sleep is vital.* |
-| maintain | sürdürmek | *She maintains excellent grades.* |
-| fairer | daha adil | *We need a fairer tax system.* |
-| in the long term | uzun vadede | *Exercise helps in the long term.* |
-| talented | yetenekli | *Talented musicians need practice.* |
-| afford | karşılayabilmek | *I cannot afford a new laptop.* |
-| tuition fees | öğrenim ücreti | *Tuition fees have risen this year.* |
-| accommodation | barınma | *Student accommodation is expensive.* |
-| potential | potansiyel | *The team has great potential.* |
-| benefit (v.) | fayda sağlamak | *Sports benefit mental health.* |
-| sector | sektör | *She works in the technology sector.* |
-| critic | eleştirmen | *Critics disliked the new law.* |
-| discrimination | ayrımcılık | *Laws fight against discrimination.* |
-| deserving | hak eden | *Deserving students should get scholarships.* |
-| fully support | tamamen desteklemek | *I fully support recycling programmes.* |
-
-### Opinion yapı notları
-
-- **Agree/Disagree:** thesis net → 2 gerekçe → (opsiyonel) karşı görüş + *However*
-- **Advantages/Disadvantages:** avantajlar → dezavantajlar → sonuçta kendi tercihin
-
-**Karşı görüş kalıbı (+puan):**
-
-> *Of course, some people think that [opposite idea]. However, I disagree because [your reason].*
+> [!CAUTION]
+> **Cause essay’de** uzun sonuç listesi yazma. **Effect essay’de** uzun neden listesi yazma. Sınavcı hangi beceriyi ölçtüğünü anlar.
 
 ---
 
-## 6. Premium kalıp tablosu
+# 1 · Altın yapı & PEEL formülü
+
+> [!IMPORTANT]
+> **Thesis kuralı:** Ana görüş cümlesi giriş paragrafının **son cümlesi** olmalı. Örnek: *This essay will discuss three main causes: A, B and C.*
+
+| Bölüm | Süre (40 dk sınav) | Görev |
+|--------|:------------------:|-------|
+| 📝 Plan | 5 dk | 3 madde + 3 örnek |
+| 🟢 Introduction | 5 dk | Hook + background + **thesis** |
+| 🔵 Body ×3 | 22 dk | PEEL ×3 |
+| 🟣 Conclusion | 5 dk | Özet + öneri (yeni fikir yok) |
+| ✅ Kontrol | 3 dk | Bağlaç, affect/effect, kelime sayısı |
+
+### PEEL — her body paragrafı
+
+| Harf | İngilizce | Türkçe | Örnek başlangıç |
+|:---:|-----------|--------|-----------------|
+| **P** | Point | Ana fikir | *One main cause is…* |
+| **E** | Explain | Açıkla | *This means that…* |
+| **E** | Example | Örnek | *For instance, …* |
+| **L** | Link | Bağla | *Therefore, … / This shows that…* |
+
+> [!TIP]
+> **Trick:** Her body paragrafına **en az bir** *For example* veya *For instance* koy. Olmadan B1+ paragraf “zayıf” sayılır.
+
+---
+
+# 2 · Bağlaç & kalıp sözlüğü (60+ ifade)
+
+## 🟦 Giriş kalıpları
 
 | Kalıp | Türkçe | Essay |
 |-------|--------|-------|
-| *Nowadays, …* | Günümüzde … | Hepsi |
-| *First of all / Secondly / Furthermore* | Öncelikle / İkinci olarak / Ayrıca | Hepsi |
-| *For instance / For example* | Örneğin | Hepsi |
-| *As a result / Therefore / Consequently* | Sonuç olarak | Cause + Effect |
-| *Due to / Because of* | -den dolayı | Cause |
-| *This can lead to…* | Bu …-a yol açabilir | Cause → Effect köprüsü |
-| *In my opinion / I strongly believe* | Bence / Kesinlikle inanıyorum | Opinion |
-| *Some people argue… However…* | Bazıları savunur… Ancak… | Opinion |
-| *To sum up / In conclusion* | Özetle / Sonuç olarak | Hepsi |
-| *Taking everything into account* | Her şeyi göz önüne alınca | Sonuç (formal) |
+| *Nowadays, … has become a serious issue.* | Günümüzde … ciddi bir sorun haline geldi. | Hepsi |
+| *It is widely accepted that…* | Yaygın olarak kabul edilir ki… | Opinion |
+| *There is no doubt that…* | Şüphesiz ki… | Hepsi |
+| *This essay will examine / discuss…* | Bu yazı … inceleyecek / ele alacak. | Cause/Effect |
+| *In recent years, … has increased dramatically.* | Son yıllarda … önemli ölçüde arttı. | Cause/Effect |
+
+## 🟩 Sıralama & ekleme
+
+| Kalıp | Türkçe |
+|-------|--------|
+| *First of all / Firstly* | Öncelikle |
+| *Secondly / In the second place* | İkinci olarak |
+| *Furthermore / Moreover / In addition* | Ayrıca, dahası |
+| *Another significant factor is…* | Bir diğer önemli faktör … |
+| *Last but not least* | Son ama en az önemli olmayan |
+| *Finally* | Son olarak |
+
+## 🟨 Sebep (Cause)
+
+| Kalıp | Türkçe |
+|-------|--------|
+| *One of the main causes is…* | Ana nedenlerden biri … |
+| *This is mainly because…* | Bu esas olarak şundan dolayı |
+| *Due to / Owing to* | -den dolayı |
+| *As a result of* | … sonucu olarak |
+| *This happens when…* | Bu … olduğunda olur |
+| *… is caused by…* | … tarafından neden olunur |
+| *A key reason why…* | … olmasının temel nedeni |
+
+## 🟧 Sonuç (Effect)
+
+| Kalıp | Türkçe |
+|-------|--------|
+| *As a result / Therefore* | Sonuç olarak |
+| *Consequently / Hence* | Bu nedenle |
+| *This can lead to…* | Bu …-a yol açabilir |
+| *… has a negative/positive impact on…* | … üzerinde olumsuz/olumlu etkisi var |
+| *One effect is…* | Bir etkisi … |
+| *This results in…* | Bu … ile sonuçlanır |
+
+## 🟪 Görüş (Opinion)
+
+| Kalıp | Türkçe |
+|-------|--------|
+| *In my opinion / view* | Bence |
+| *I strongly believe that…* | Kesinlikle inanıyorum ki… |
+| *From my point of view* | Benim bakış açımdan |
+| *I am convinced that…* | … konusunda ikna oldum |
+| *Some people argue… However, …* | Bazıları savunur… Ancak… |
+| *On the one hand… On the other hand…* | Bir yandan… Diğer yandan… |
+| *I fully support / oppose* | Tamamen destekliyorum / karşıyım |
+
+## 🟥 Sonuç kalıpları
+
+| Kalıp | Türkçe |
+|-------|--------|
+| *To sum up / In conclusion* | Özetle / Sonuç olarak |
+| *All in all* | Genel olarak |
+| *Taking everything into account* | Her şeyi göz önüne alınca |
+| *On balance, …* | Dengeli bir değerlendirmeyle… |
+
+> [!WARNING]
+> **Sonuçta yeni argüman ekleme.** Sadece özetle + (isteğe bağlı) tek cümle öneri.
 
 ---
 
-## 7. Ezberlenebilir mini bloklar
+# 3 · CAUSE Essay (neden odaklı)
 
-**Cause thesis:**
+![Cause](https://img.shields.io/badge/Tür-CAUSE-DC2626?style=flat-square) ![Focus](https://img.shields.io/badge/Odak-WHY%3F-991B1B?style=flat-square)
 
-> There are several reasons why [topic]. This essay will discuss three main causes: [A], [B] and [C].
+| Soru anahtar kelimeleri | Yaz |
+|-------------------------|-----|
+| *Why…? · What causes…? · Reasons for…* | Neden listesi |
 
-**Effect thesis:**
-
-> [Topic] has serious effects on [area 1], [area 2] and [area 3].
-
-**Opinion thesis:**
-
-> In my opinion, [your clear position]. I strongly believe this because [reason 1] and [reason 2].
+**Thesis şablonu:**
+> *There are several reasons why [topic]. This essay will discuss three main causes: [A], [B] and [C].*
 
 ---
 
-## 8. Sınav kontrol listesi
+## Cause Essay #1 — Obezite
+
+**Soru:** *What are the causes of obesity among young people?* · **~265 kelime**
+
+<details>
+<summary><b>📊 Tıkla — Cümle cümle İngilizce + Türkçe tablo (19 satır)</b></summary>
+
+| # | English | Türkçe |
+|---|---------|--------|
+| 1 | Nowadays, obesity among young people has become a serious public health problem in many countries. | Günümüzde gençler arasında obezite birçok ülkede ciddi bir halk sağlığı sorunudur. |
+| 2 | Doctors and teachers are worried because this issue can lead to diabetes, heart disease and low self-confidence. | Doktorlar ve öğretmenler endişeli; bu sorun diyabet, kalp hastalığı ve düşük özgüvene yol açabilir. |
+| 3 | Although genetics can play a role, I believe lifestyle and environment are the main causes. | Genetik rol oynasa da yaşam tarzı ve çevre ana nedenlerdir. |
+| 4 | This essay will discuss three causes: unhealthy diet, lack of activity and heavy advertising. | Bu yazı üç nedeni ele alır: sağlıksız beslenme, hareketsizlik, yoğun reklam. |
+| 5 | First, many teenagers eat too much fast food, sugary drinks and processed snacks. | Önce birçok genç çok fazla fast food ve şekerli içecek tüketir. |
+| 6 | These products are cheap, tasty and easy to buy after school. | Bu ürünler ucuz, lezzetli ve okul sonrası alınması kolaydır. |
+| 7 | As a result, they consume more calories than they need. | Sonuç olarak ihtiyaçlarından fazla kalori alırlar. |
+| 8 | For instance, daily large sodas can add hundreds of extra calories weekly. | Örneğin günlük büyük gazlı içecekler haftalık yüzlerce fazla kalori ekler. |
+| 9 | Secondly, teenagers spend a great deal of time in front of screens. | İkinci olarak gençler ekran başında çok zaman harcar. |
+| 10 | They watch videos and play games for hours after homework. | Ödevden sonra saatlerce video izler ve oyun oynarlar. |
+| 11 | Consequently, they move less than previous generations. | Bu nedenle önceki nesillere göre daha az hareket ederler. |
+| 12 | Parents also fear letting children play outside alone. | Ebeveynler çocuğun dışarıda yalnız oynamasından korkar. |
+| 13 | Furthermore, companies target youth with ads on social media. | Ayrıca şirketler sosyal medyada gençleri reklamlarla hedefler. |
+| 14 | Influencers promote unhealthy products without clear warnings. | Fenomenler riski açıklamadan sağlıksız ürün tanıtır. |
+| 15 | Due to marketing, sugary products seem "cool" and normal. | Pazarlama yüzünden şekerli ürünler "havalı" görünür. |
+| 16 | Families find it harder to serve balanced meals. | Aileler dengeli yemek sunmakta zorlanır. |
+| 17 | To sum up, obesity is caused by poor diet, inactivity and advertising. | Özetle obezite kötü beslenme, hareketsizlik ve reklamdan kaynaklanır. |
+| 18 | Schools and governments should act early. | Okullar ve hükümetler erken hareket etmelidir. |
+| 19 | The next generation deserves a healthier future. | Gelecek nesil daha sağlıklı bir geleceği hak eder. |
+
+</details>
+
+### Cause #1 — Kelime tablosu (25 kelime)
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| obesity | obezite | *Childhood obesity is rising.* |
+| public health | halk sağlığı | *Public health campaigns help citizens.* |
+| lead to | yol açmak | *Smoking can lead to cancer.* |
+| diabetes | diyabet | *Diabetes needs medical care.* |
+| genetics | genetik | *Genetics influence height.* |
+| lifestyle | yaşam tarzı | *A sedentary lifestyle is risky.* |
+| processed | işlenmiş | *Processed meat contains additives.* |
+| consume | tüketmek | *We consume too much sugar.* |
+| calorie | kalori | *One banana has few calories.* |
+| fibre | lif | *Fibre improves digestion.* |
+| consequently | sonuç olarak | *It rained; consequently, we stayed in.* |
+| generation | nesil | *Each generation faces new problems.* |
+| target (v.) | hedeflemek | *Ads target teenagers.* |
+| influencer | fenomen | *The influencer sold a drink.* |
+| promote | tanıtmak | *They promote eco products.* |
+| psychological | psikolojik | *Stress has psychological effects.* |
+| balanced | dengeli | *Eat a balanced diet.* |
+| regulate | düzenlemek | *Laws regulate tobacco ads.* |
+| aggressive | agresif, yoğun | *Aggressive marketing affects children.* |
+| inactivity | hareketsizlik | *Inactivity weakens muscles.* |
+| sedentary | hareketsiz oturan | *Office work is sedentary.* |
+| affordable | uygun fiyatlı | *Fast food seems affordable.* |
+| nutritious | besleyici | *Vegetables are nutritious.* |
+| habit | alışkanlık | *Reading is a good habit.* |
+| take action | harekete geçmek | *We must take action now.* |
+
+---
+
+## Cause Essay #2 — Genç işsizlik
+
+**Soru:** *What are the causes of youth unemployment?* · **~270 kelime**
+
+<details>
+<summary><b>📊 Tıkla — Cümle cümle tablo (20 satır)</b></summary>
+
+| # | English | Türkçe |
+|---|---------|--------|
+| 1 | Youth unemployment is a growing problem in both developed and developing countries. | Genç işsizlik hem gelişmiş hem gelişmekte olan ülkelerde büyüyen bir sorundur. |
+| 2 | When young people cannot find work, they may lose motivation and depend on their families. | Gençler iş bulamayınca motivasyon kaybeder ve ailelerine bağımlı kalabilir. |
+| 3 | This essay will analyse three major causes: lack of experience, economic crisis and skills mismatch. | Bu yazı üç ana nedeni analiz eder: deneyim eksikliği, ekonomik kriz, beceri uyumsuzluğu. |
+| 4 | First of all, many employers prefer workers with several years of experience. | Öncelikle birçok işveren birkaç yıl deneyimi olan çalışanları tercih eder. |
+| 5 | Graduates often hear that they are "overqualified" or "too inexperienced" at the same time. | Mezunlar hem "fazla nitelikli" hem "deneyimsiz" olduklarını duyar. |
+| 6 | As a result, they cannot enter the labour market even with a university degree. | Sonuç olarak üniversite diplomasıyla bile iş gücüne giremezler. |
+| 7 | For example, a biology graduate may fail to get a lab job without internships. | Örneğin biyoloji mezunu staj olmadan laboratuvar işi alamayabilir. |
+| 8 | Secondly, economic downturns reduce the number of available jobs. | İkinci olarak ekonomik durgunluklar mevcut iş sayısını azaltır. |
+| 9 | During a recession, companies close branches and freeze hiring. | Resesyon sırasında şirketler şube kapatır, işe alımı dondurur. |
+| 10 | Consequently, competition becomes fierce among thousands of applicants. | Bu nedenle binlerce başvuru sahibi arasında rekabet şiddetlenir. |
+| 11 | Young workers are often the first to be laid off because they have short contracts. | Gençler genelde kısa sözleşmeli oldukları için ilk işten çıkarılanlardır. |
+| 12 | Thirdly, there is a mismatch between what schools teach and what industry needs. | Üçüncü olarak okulların öğrettiği ile sanayinin ihtiyacı uyuşmaz. |
+| 13 | Many programmes focus on theory, while employers want digital and communication skills. | Birçok program teoriye odaklanır; işverenler dijital ve iletişim becerisi ister. |
+| 14 | Due to outdated curricula, students are unprepared for modern workplaces. | Güncel olmayan müfredat yüzünden öğrenciler modern işyerine hazırsızdır. |
+| 15 | In some regions, young people also lack affordable transport to industrial zones. | Bazı bölgelerde gençlerin sanayi bölgelerine uygun ulaşımı da yoktur. |
+| 16 | This geographical barrier limits their chances further. | Bu coğrafi engel şanslarını daha da kısar. |
+| 17 | To conclude, youth unemployment stems from inexperience, weak economies and poor training. | Sonuç olarak genç işsizlik deneyimsizlik, zayıf ekonomi ve kötü eğitimden kaynaklanır. |
+| 18 | Governments should fund internships and update vocational education. | Hükümetler staj fonlamalı ve meslek eğitimini güncellemelidir. |
+| 19 | Companies must invest in training young talent. | Şirketler genç yeteneğe yatırım yapmalıdır. |
+| 20 | Solving this issue early protects social stability. | Bu sorunu erken çözmek toplumsal istikrarı korur. |
+
+</details>
+
+### Cause #2 — Kelime tablosu (22 kelime)
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| unemployment | işsizlik | *Unemployment rose last year.* |
+| developed | gelişmiş | *Developed countries invest in tech.* |
+| motivation | motivasyon | *Praise increases motivation.* |
+| analyse / analyze | analiz etmek | *We analyse the data carefully.* |
+| lack of | eksiklik | *Lack of sleep affects mood.* |
+| employer | işveren | *The employer offers training.* |
+| graduate | mezun | *She is a recent graduate.* |
+| labour market | iş gücü piyasası | *The labour market is competitive.* |
+| internship | staj | *I did a summer internship.* |
+| economic downturn | ekonomik durgunluk | *Downturns hurt small firms.* |
+| recession | resesyon | *During recession sales fall.* |
+| freeze hiring | işe alımı dondurmak | *They froze hiring in 2020.* |
+| fierce | şiddetli, yoğun | *Competition is fierce.* |
+| applicant | başvuran | *There were 200 applicants.* |
+| lay off | işten çıkarmak | *The factory laid off staff.* |
+| mismatch | uyumsuzluk | *Skills mismatch slows hiring.* |
+| curriculum | müfredat | *The curriculum needs updating.* |
+| outdated | modası geçmiş | *Outdated rules cause problems.* |
+| vocational | mesleki | *Vocational schools teach trades.* |
+| geographical | coğrafi | *Geographical distance matters.* |
+| barrier | engel | *Language can be a barrier.* |
+| social stability | toplumsal istikrar | *Jobs support social stability.* |
+
+---
+
+# 4 · EFFECT Essay (sonuç odaklı)
+
+![Effect](https://img.shields.io/badge/Tür-EFFECT-2563EB?style=flat-square) ![Focus](https://img.shields.io/badge/Odak-SO_WHAT%3F-1E40AF?style=flat-square)
+
+**Thesis şablonu:**
+> *[Topic] has serious effects on [X], [Y] and [Z]. This essay will examine these impacts.*
+
+---
+
+## Effect Essay #1 — Hava kirliliği
+
+**Soru:** *What are the effects of air pollution in big cities?* · **~258 kelime**
+
+<details>
+<summary><b>📊 Tıkla — Cümle cümle tablo (19 satır)</b></summary>
+
+| # | English | Türkçe |
+|---|---------|--------|
+| 1 | Air pollution is one of the most serious environmental problems in large cities. | Hava kirliliği büyük şehirlerin en ciddi çevre sorunlarından biridir. |
+| 2 | It is caused by traffic, factories and fossil fuels. | Trafik, fabrika ve fosil yakıtlardan kaynaklanır. |
+| 3 | The effects on health, economy and daily life are equally worrying. | Sağlık, ekonomi ve günlük yaşam etkileri aynı derecede endişe vericidir. |
+| 4 | This essay will examine three major effects. | Bu yazı üç büyük etkiyi inceleyecektir. |
+| 5 | One dangerous effect is on human health. | Tehlikeli bir etki insan sağlığıdır. |
+| 6 | Fine particles enter the lungs and bloodstream. | İnce parçacıklar akciğer ve kan dolaşımına girer. |
+| 7 | As a result, asthma and heart disease increase. | Sonuç olarak astım ve kalp hastalığı artar. |
+| 8 | In megacities, schools sometimes close on high-pollution days. | Megakentlerde yüksek kirlilik günlerinde okullar kapanır. |
+| 9 | Another effect is economic. | Bir diğer etki ekonomiktir. |
+| 10 | Governments spend billions on treatment and sick leave. | Hükümetler tedavi ve hastalık iznine milyarlar harcar. |
+| 11 | Tourism suffers when visitors see smog. | Ziyaretçiler sis dumanı görünce turizm zarar görür. |
+| 12 | Hotels earn less during polluted seasons. | Oteller kirli mevsimde daha az kazanır. |
+| 13 | Pollution also lowers everyday quality of life. | Kirlilik günlük yaşam kalitesini düşürür. |
+| 14 | Residents wear masks and avoid outdoor sport. | Sakinler maske takar, açık hava sporundan kaçınır. |
+| 15 | This can lead to stress and social isolation. | Bu stres ve yalnızlığa yol açabilir. |
+| 16 | Dirty air damages historic buildings too. | Kirli hava tarihi yapılara da zarar verir. |
+| 17 | In conclusion, pollution harms health, economy and urban life. | Sonuç olarak kirlilik sağlık, ekonomi ve kent yaşamına zarar verir. |
+| 18 | Cities should invest in public transport and green zones. | Şehirler toplu taşıma ve yeşil alana yatırım yapmalı. |
+| 19 | Future citizens deserve cleaner air. | Gelecek vatandaşlar daha temiz hava hak eder. |
+
+</details>
+
+### Effect #1 — Kelime tablosu (24 kelime)
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| environmental | çevresel | *Environmental damage is costly.* |
+| fossil fuels | fosil yakıt | *We should reduce fossil fuels.* |
+| fine particles | ince parçacık | *Particles come from exhaust.* |
+| bloodstream | kan dolaşımı | *Toxins enter the bloodstream.* |
+| asthma | astım | *Dust triggers asthma.* |
+| megacity | megakent | *Shanghai is a megacity.* |
+| economic growth | ekonomik büyüme | *Growth creates jobs.* |
+| sick leave | hastalık izni | *He took sick leave.* |
+| smog | sis dumanı | *Smog hid the skyline.* |
+| tourism | turizm | *Tourism supports local jobs.* |
+| resident | sakin | *Residents complained about noise.* |
+| isolation | yalnızlık | *Isolation harms teenagers.* |
+| historic | tarihi | *Historic walls turned black.* |
+| invest in | yatırım yapmak | *They invested in solar power.* |
+| green zones | yeşil alan | *Parks are green zones.* |
+| harmful | zararlı | *Smoking is harmful.* |
+| urban | kentsel | *Urban pollution is visible.* |
+| exhaust | egzoz | *Car exhaust pollutes streets.* |
+| renewable | yenilenebilir | *Renewable energy is cleaner.* |
+| policy | politika | *New policies reduced waste.* |
+| citizen | vatandaş | *Citizens demand clean water.* |
+| infrastructure | altyapı | *Better infrastructure helps trade.* |
+| emission | emisyon, salınım | *Emissions must fall by 2030.* |
+| sustainable | sürdürülebilir | *Sustainable cities plant trees.* |
+
+---
+
+## Effect Essay #2 — Sosyal medya
+
+**Soru:** *What are the effects of using social media too much?* · **~275 kelime**
+
+<details>
+<summary><b>📊 Tıkla — Cümle cümle tablo (21 satır)</b></summary>
+
+| # | English | Türkçe |
+|---|---------|--------|
+| 1 | Social media platforms are now part of everyday life for billions of users. | Sosyal medya platformları milyarlarca kullanıcının günlük hayatının parçasıdır. |
+| 2 | Although they help people stay connected, excessive use can damage health and relationships. | İnsanları bağlı tutsa da aşırı kullanım sağlık ve ilişkilere zarar verebilir. |
+| 3 | This essay will explore three important effects: mental health problems, poor academic performance and sleep loss. | Bu yazı üç etkiyi inceleyecek: ruh sağlığı, düşük okul başarısı, uyku kaybı. |
+| 4 | One serious effect is on mental health. | Ciddi bir etki ruh sağlığıdır. |
+| 5 | Users constantly compare their lives with ideal photos online. | Kullanıcılar hayatlarını çevrimiçi ideal fotoğraflarla sürekli kıyaslar. |
+| 6 | Consequently, many teenagers feel anxious, lonely or dissatisfied with their appearance. | Bu nedenle birçok genç kaygılı, yalnız veya görünüşünden memnuniyetsiz hisseder. |
+| 7 | For instance, a student may check likes every few minutes and panic when a post fails. | Örneğin bir öğrenci birkaç dakikada bir beğeni kontrol eder, gönderi tutmayınca panikler. |
+| 8 | Secondly, heavy social media use harms school results. | İkinci olarak yoğun sosyal medya okul sonuçlarına zarar verir. |
+| 9 | Notifications interrupt homework and reduce concentration. | Bildirimler ödevi böler, dikkati azaltır. |
+| 10 | As a result, students remember less and submit lower-quality work. | Sonuç olarak daha az hatırlar, daha düşük kaliteli ödev verirler. |
+| 11 | Teachers report that pupils who scroll during class understand fewer instructions. | Öğretmenler derste kaydıran öğrencilerin daha az talimat anladığını bildirir. |
+| 12 | Thirdly, screens before bedtime disrupt sleep patterns. | Üçüncü olarak yatmadan önce ekran uyku düzenini bozar. |
+| 13 | Blue light tricks the brain into staying awake longer. | Mavi ışık beyni daha uzun uyanık kalmaya iter. |
+| 14 | This leads to tiredness, headaches and weaker immune systems. | Bu yorgunluk, baş ağrısı ve zayıf bağışıklığa yol açar. |
+| 15 | Tired students are also more likely to argue with parents and friends. | Yorgun öğrenciler ebeveyn ve arkadaşlarla tartışmaya daha yatkındır. |
+| 16 | In addition, cyberbullying can spread quickly and leave long-lasting emotional scars. | Ayrıca siber zorbalık hızlı yayılır, kalıcı duygusal iz bırakır. |
+| 17 | Victims may avoid school and lose trust in others. | Kurbanlar okuldan kaçınır, başkalarına güvenini kaybeder. |
+| 18 | In conclusion, overusing social media affects mental health, grades and sleep. | Sonuç olarak aşırı sosyal medya ruh sağlığı, notlar ve uykuyu etkiler. |
+| 19 | Users should set daily limits and turn off notifications while studying. | Kullanıcılar günlük limit koymalı, çalışırken bildirimleri kapatmalıdır. |
+| 20 | Parents and schools should teach digital wellbeing. | Ebeveyn ve okullar dijital refah öğretmelidir. |
+| 21 | Used wisely, technology can support learning instead of replacing it. | Akıllıca kullanıldığında teknoloji öğrenmeyi destekler, yerine geçmez. |
+
+</details>
+
+### Effect #2 — Kelime tablosu (26 kelime)
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| platform | platform | *TikTok is a popular platform.* |
+| excessive | aşırı | *Excessive sugar is unhealthy.* |
+| stay connected | bağlı kalmak | *We stay connected online.* |
+| explore | incelemek | *The article explores causes.* |
+| compare | karşılaştırmak | *Do not compare yourself to stars.* |
+| anxious | kaygılı | *She felt anxious before exams.* |
+| dissatisfied | memnuniyetsiz | *Customers were dissatisfied.* |
+| notification | bildirim | *Turn off notifications at night.* |
+| interrupt | bölmek, kesmek | *Noise interrupted the lesson.* |
+| concentration | konsantrasyon | *Meditation improves concentration.* |
+| submit | teslim etmek | *Submit homework on Friday.* |
+| scroll (v.) | kaydırmak | *He scrolls for hours.* |
+| disrupt | bozmak | *Storms disrupt transport.* |
+| pattern | düzen, örüntü | *Regular sleep patterns help health.* |
+| immune system | bağışıklık sistemi | *Vitamins support the immune system.* |
+| cyberbullying | siber zorbalık | *Cyberbullying is illegal in some countries.* |
+| victim | kurban | *Victims need support.* |
+| emotional | duygusal | *Emotional stress affects sleep.* |
+| scar | iz, yara izi | *Bullying left emotional scars.* |
+| set limits | limit koymak | *Set limits on screen time.* |
+| digital wellbeing | dijital refah | *Digital wellbeing matters at school.* |
+| wisely | akıllıca | *Choose your words wisely.* |
+| replace | yerine geçmek | *Machines cannot replace empathy.* |
+| ideal | ideal | *Social media shows ideal lives.* |
+| appearance | görünüş | *Do not judge by appearance.* |
+| academic performance | akademik başarı | *Sport can boost performance.* |
+
+---
+
+# 5 · OPINION Essay (görüş odaklı)
+
+![Opinion](https://img.shields.io/badge/Tür-OPINION-7C3AED?style=flat-square) ![Focus](https://img.shields.io/badge/Odak-I_BELIEVE-5B21B6?style=flat-square)
+
+> [!IMPORTANT]
+> **Opinion trick (+puan):** Bir body paragrafında *Some people think…* yaz, hemen ardından ***However, I disagree because…***
+
+**Thesis şablonu:**
+> *In my opinion, [clear position]. I strongly believe this because [reason 1] and [reason 2].*
+
+---
+
+## Opinion Essay #1 — Ücretsiz üniversite
+
+**Soru:** *Should university education be free?* · **~272 kelime**
+
+<details>
+<summary><b>📊 Tıkla — Cümle cümle tablo (18 satır)</b></summary>
+
+| # | English | Türkçe |
+|---|---------|--------|
+| 1 | Access to higher education is a hot topic worldwide. | Yükseköğretime erişim dünya çapında sıcak bir konudur. |
+| 2 | Some argue universities should be free; others say students must pay. | Kimileri ücretsiz der; kimileri öğrenci ödemeli der. |
+| 3 | In my opinion, public universities should be free for students who pass exams and keep good grades. | Bence sınavı geçen ve notunu koruyan öğrenciye devlet üniversitesi ücretsiz olmalı. |
+| 4 | I strongly believe this creates a fairer society and stronger economy. | Bunun daha adil toplum ve güçlü ekonomi yarattığına inanıyorum. |
+| 5 | Free education gives talented poor students a real chance. | Ücretsiz eğitim yetenekli yoksul gençlere gerçek şans verir. |
+| 6 | Many cannot afford fees, housing and books. | Birçoğu ücret, barınma ve kitap karşılayamaz. |
+| 7 | They take low-paid jobs instead of studying. | Okumak yerine düşük ücretli işe girerler. |
+| 8 | A future doctor might never study because of money. | Geleceğin doktoru para yüzünden hiç okuyamayabilir. |
+| 9 | Educated citizens pay more tax and create businesses. | Eğitimli vatandaşlar daha çok vergi öder, iş kurar. |
+| 10 | The state often recovers costs through growth. | Devlet maliyeti çoğu zaman büyüme ile geri alır. |
+| 11 | Germany shows low fees do not destroy quality. | Almanya düşük ücretin kaliteyi yok etmediğini gösterir. |
+| 12 | Critics say free education is too expensive. | Eleştirmenler ücretsiz eğitimin çok pahalı olduğunu söyler. |
+| 13 | However, costs can be controlled with limits and focus. | Ancak limit ve odakla maliyet kontrol edilebilir. |
+| 14 | High earners could pay a small graduate tax later. | Yüksek kazananlar sonra küçük mezun vergisi ödeyebilir. |
+| 15 | To conclude, free university promotes equality and development. | Sonuç olarak ücretsiz üniversite eşitlik ve kalkınmayı destekler. |
+| 16 | A nation that educates without discrimination invests in its future. | Ayrımcılıksız eğiten ulus geleceğine yatırım yapar. |
+| 17 | I fully support free access for deserving students. | Hak eden öğrenciye ücretsiz erişimi tam destekliyorum. |
+| 18 | Education should be a right, not a luxury. | Eğitim lüks değil hak olmalıdır. |
+
+</details>
+
+### Opinion #1 — Kelime tablosu (22 kelime)
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| access | erişim | *Everyone needs access to schools.* |
+| higher education | yükseköğretim | *Higher education opens careers.* |
+| hot topic | gündem konusu | *AI is a hot topic.* |
+| argue | savunmak | *Lawyers argue in court.* |
+| fairer | daha adil | *Rules should be fairer.* |
+| talented | yetenekli | *Talented artists need support.* |
+| afford | karşılayabilmek | *We cannot afford delays.* |
+| tuition fees | öğrenim ücreti | *Fees increased again.* |
+| potential | potansiyel | *She has leadership potential.* |
+| tax | vergi | *Tax funds public schools.* |
+| recover | geri kazanmak | *The economy recovered slowly.* |
+| critic | eleştirmen | *Critics questioned the plan.* |
+| deserving | hak eden | *Deserving winners received prizes.* |
+| discrimination | ayrımcılık | *Laws ban discrimination.* |
+| luxury | lüks | *Clean water is not a luxury.* |
+| promote | desteklemek, teşvik | *Ads promote unhealthy snacks.* |
+| development | kalkınma | *Education drives development.* |
+| graduate tax | mezun vergisi | *A graduate tax funds colleges.* |
+| public | kamu, devlet | *Public hospitals serve all.* |
+| maintain | sürdürmek | *Maintain high standards.* |
+| nationwide | ülke çapında | *The reform is nationwide.* |
+| fully support | tam desteklemek | *I fully support the idea.* |
+
+---
+
+## Opinion Essay #2 — Ödev yasağı
+
+**Soru:** *Should homework be banned?* · **~268 kelime** · **Pozisyon: Hayır, tamamen yasaklanmamalı**
+
+<details>
+<summary><b>📊 Tıkla — Cümle cümle tablo (20 satır)</b></summary>
+
+| # | English | Türkçe |
+|---|---------|--------|
+| 1 | In many countries, students and parents debate whether homework should be abolished. | Birçok ülkede öğrenci ve ebeveynler ödevin kaldırılıp kaldırılmamasını tartışır. |
+| 2 | Some believe homework only causes stress and steals childhood. | Kimileri ödevin sadece stres yarattığını ve çocukluğu çaldığını düşünür. |
+| 3 | In my opinion, homework should not be banned completely, but it should be limited and meaningful. | Bence ödev tamamen yasaklanmamalı, sınırlı ve anlamlı olmalıdır. |
+| 4 | I am convinced that short, well-designed tasks help students learn independently. | Kısa, iyi tasarlanmış görevlerin bağımsız öğrenmeye yardım ettiğine ikna oldum. |
+| 5 | Firstly, homework allows pupils to practise what they studied in class. | Öncelikle ödev öğrencinin derste öğrendiğini pekiştirmesini sağlar. |
+| 6 | Without revision at home, facts are quickly forgotten. | Evde tekrar olmazsa bilgiler hızla unutulur. |
+| 7 | For example, maths exercises help students prepare for exams step by step. | Örneğin matematik alıştırmaları sınava adım adım hazırlar. |
+| 8 | Secondly, reasonable homework teaches responsibility and time management. | İkinci olarak makul ödev sorumluluk ve zaman yönetimi öğretir. |
+| 9 | Teenagers who plan an hour of study learn to organise their evening. | Bir saat çalışmayı planlayan genç akşamını düzenlemeyi öğrenir. |
+| 10 | These skills are essential for university and future jobs. | Bu beceriler üniversite ve gelecek iş için şarttır. |
+| 11 | Of course, too much homework has negative effects. | Elbette çok fazla ödevin olumsuz etkileri vardır. |
+| 12 | However, banning all tasks is not the solution. | Ancak tüm görevleri yasaklamak çözüm değildir. |
+| 13 | Schools should set clear time limits— for instance, no more than one hour per night for teenagers. | Okullar net süre limiti koymalı— örneğin gençler için gecede en fazla bir saat. |
+| 14 | Teachers should also vary assignments: projects, reading, not only worksheets. | Öğretmenler görevleri çeşitlendirmeli: proje, okuma, sadece kağıt değil. |
+| 15 | Some people argue that family time is more important than exercises. | Bazıları aile zamanının alıştırmadan önemli olduğunu savunur. |
+| 16 | I agree that family life matters, which is why homework must stay short. | Aile hayatının önemli olduğuna katılıyorum; bu yüzden ödev kısa kalmalı. |
+| 17 | To conclude, homework should be reformed, not removed. | Sonuç olarak ödev kaldırılmamalı, reform edilmelidir. |
+| 18 | From my point of view, balanced homework supports learning without destroying wellbeing. | Dengeli ödev, refahı yok etmeden öğrenmeyi destekler. |
+| 19 | For these reasons, I oppose a total ban. | Bu nedenlerle tam yasağa karşıyım. |
+| 20 | Quality matters more than quantity. | Önemli olan nicelikten çok niteliktir. |
+
+</details>
+
+### Opinion #2 — Kelime tablosu (24 kelime)
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| abolish | kaldırmak, yürürlükten kaldırmak | *They abolished the old law.* |
+| debate | tartışmak | *Politicians debate the issue.* |
+| steal childhood | çocukluğu çalmak | *Too much work steals childhood.* |
+| ban (v.) | yasaklamak | *Smoking is banned indoors.* |
+| meaningful | anlamlı | *Choose meaningful goals.* |
+| well-designed | iyi tasarlanmış | *The course is well-designed.* |
+| independently | bağımsız olarak | *She works independently.* |
+| practise / practice | pratik yapmak | *Practise speaking daily.* |
+| revision | tekrar | *Revision before exams helps.* |
+| forget | unutmak | *Do not forget your ID.* |
+| exercise (n.) | alıştırma | *Do grammar exercises.* |
+| responsibility | sorumluluk | *Pets need responsibility.* |
+| time management | zaman yönetimi | *Time management reduces stress.* |
+| organise / organize | düzenlemek | *Organise your files.* |
+| essential | şart, gerekli | *Sleep is essential.* |
+| abolish vs ban | kaldırmak / yasaklamak | *Ban phones; abolish fees.* |
+| oppose | karşı çıkmak | *I oppose violence.* |
+| reform (v.) | reform etmek | *They reformed the system.* |
+| wellbeing | refah, iyi oluş | *Sport improves wellbeing.* |
+| balanced | dengeli | *A balanced diet helps.* |
+| quantity | nicelik, miktar | *Quality beats quantity.* |
+| worksheet | çalışma kağıdı | *Worksheets bored the class.* |
+| vary | çeşitlendirmek | *Menus vary by season.* |
+| assign (v.) | ödev vermek | *Teachers assign reading.* |
+
+---
+
+# 6 · Cause & Effect birlikte
+
+> [!IMPORTANT]
+> Soru *causes and effects* diyorsa: **2 paragraf cause + 2 paragraf effect** veya **her paragrafta cause→effect çifti**
+
+| Paragraf | İçerik | Kalıp |
+|----------|--------|-------|
+| 1 | Neden A | *One cause is…* |
+| 2 | Neden B | *Another cause is…* |
+| 3 | Sonuç A | *One effect is…* |
+| 4 | Sonuç B | *As a result, …* |
+
+**Mini örnek (tek paragraf modeli):**
+
+| English | Türkçe |
+|---------|--------|
+| *Air pollution is caused by traffic and factories. As a result, many citizens suffer from breathing problems and hospitals become overcrowded.* | *Hava kirliliği trafik ve fabrikalardan kaynaklanır. Sonuç olarak birçok vatandaş solunum sorunu yaşar ve hastaneler aşırı kalabalıklaşır.* |
+
+---
+
+# 📖 Mega kelime bankası (150+ kelime)
+
+## Tema 1 — Sağlık & yaşam
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| disease | hastalık | *Heart disease is common.* |
+| treatment | tedavi | *She needs medical treatment.* |
+| symptom | belirti | *Fever is a symptom.* |
+| prevention | önleme | *Prevention is cheaper than cure.* |
+| wellbeing | iyi oluş | *Mental wellbeing matters.* |
+| chronic | kronik | *Chronic pain lasts months.* |
+| obesity | obezite | *Obesity rates are rising.* |
+| nutrition | beslenme | *Good nutrition builds health.* |
+| physical activity | fiziksel aktivite | *Activity reduces stress.* |
+| mental health | ruh sağlığı | *Schools teach mental health.* |
+
+## Tema 2 — Eğitim & iş
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| academic | akademik | *Academic results improved.* |
+| assignment | ödev, görev | *Submit the assignment online.* |
+| curriculum | müfredat | *Update the curriculum yearly.* |
+| qualification | nitelik, diploma | *Jobs need qualifications.* |
+| internship | staj | *She found an internship.* |
+| unemployment | işsizlik | *Unemployment fell slightly.* |
+| career | kariyer | *Plan your career early.* |
+| employer | işveren | *Employers want teamwork.* |
+| employee | çalışan | *Employees deserve fair pay.* |
+| skill | beceri | *Digital skills are essential.* |
+
+## Tema 3 — Teknoloji & medya
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| device | cihaz | *Put devices away at night.* |
+| screen time | ekran süresi | *Limit screen time.* |
+| digital | dijital | *Digital tools help learning.* |
+| online | çevrimiçi | *Online classes grew fast.* |
+| platform | platform | *Choose safe platforms.* |
+| cyberbullying | siber zorbalık | *Report cyberbullying.* |
+| privacy | gizlilik | *Protect your privacy.* |
+| data | veri | *Companies collect data.* |
+| artificial intelligence | yapay zeka | *AI changes many jobs.* |
+| innovation | yenilik | *Innovation drives progress.* |
+
+## Tema 4 — Çevre & toplum
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| pollution | kirlilik | *Pollution harms rivers.* |
+| climate change | iklim değişikliği | *Climate change affects farmers.* |
+| renewable energy | yenilenebilir enerji | *Solar is renewable energy.* |
+| waste | atık | *Reduce plastic waste.* |
+| recycle | geri dönüştürmek | *Recycle paper and glass.* |
+| sustainable | sürdürülebilir | *Sustainable farming saves water.* |
+| urbanisation | kentleşme | *Rapid urbanisation brings traffic.* |
+| poverty | yoksulluk | *Poverty limits education.* |
+| inequality | eşitsizlik | *Fight income inequality.* |
+| government | hükümet | *The government raised taxes.* |
+
+## Tema 5 — Görüş & tartışma
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| argue | savunmak | *Scientists argue about causes.* |
+| claim | iddia etmek | *He claims it is safe.* |
+| evidence | kanıt | *Show evidence for your view.* |
+| support (v.) | desteklemek | *I support free libraries.* |
+| oppose | karşı çıkmak | *Many oppose the ban.* |
+| advantage | avantaj | *One advantage is flexibility.* |
+| disadvantage | dezavantaj | *A disadvantage is cost.* |
+| controversial | tartışmalı | *It is a controversial topic.* |
+| perspective | bakış açısı | *Try another perspective.* |
+| convinced | ikna olmuş | *I am convinced it works.* |
+
+## Tema 6 — Bağlaç kelimeler (tek kelime)
+
+| Kelime | Türkçe | Örnek |
+|--------|--------|-------|
+| therefore | bu nedenle | *It rained; therefore we stayed.* |
+| however | ancak | *It is hard; however, try again.* |
+| although | -e rağmen | *Although tired, she studied.* |
+| moreover | dahası | *It is cheap; moreover, fast.* |
+| nevertheless | yine de | *Nevertheless, we continued.* |
+| otherwise | aksi halde | *Hurry, otherwise you will be late.* |
+| whereas | oysa, halbuki | *Cities are noisy whereas villages are quiet.* |
+| thus | böylece | *Thus, the plan failed.* |
+| hence | bu yüzden | *Hence, rules were changed.* |
+| due to | nedeniyle | *Cancelled due to snow.* |
+
+---
+
+# 8 · Formal ↔ Informal dönüşüm
+
+> [!TIP]
+> Sınavda **her zaman formal** yaz. Aşağıdaki sütunu kullan.
+
+| ❌ Informal | ✅ Formal B1+ |
+|-------------|----------------|
+| a lot of | a great deal of / numerous |
+| kids | children / young people |
+| get | obtain / receive |
+| big | significant / considerable |
+| bad | harmful / negative |
+| good | beneficial / positive |
+| think | believe / maintain |
+| show | demonstrate / indicate |
+| also | moreover / furthermore |
+| but | however / nevertheless |
+| so | therefore / consequently |
+| like | such as / for instance |
+| nowadays (OK) | in recent years / currently |
+| I think | in my opinion / I believe |
+
+---
+
+# 9 · Sınav puan rubriği (öğretmen gözüyle)
+
+| Kriter | 🟢 Güçlü (yüksek puan) | 🔴 Zayıf (düşük puan) |
+|--------|------------------------|------------------------|
+| **Görev** | Soru tipine uygun (cause/effect/opinion) | Yanlış tür / konu dışı |
+| **Organizasyon** | PEEL, net paragraflar | Tek paragraf / dağınık |
+| **Thesis** | Giriş sonunda net | Yok veya belirsiz |
+| **Örnekler** | 2+ *For example* | Örnek yok |
+| **Kelime** | B1+ çeşitlilik | Tekrarlı basit kelime |
+| **Dil bilgisi** | Az hata, zaman tutarlı | Çok hata, karışık zaman |
+| **Uzunluk** | 250+ kelime | Çok kısa |
+| **Sonuç** | Özet, yeni fikir yok | Yeni argüman / kopuk |
+
+---
+
+## ⏱️ Sınav günü zaman çizelgesi
+
+| Dakika | Görev | Trick |
+|:------:|-------|-------|
+| 0–3 | Soruyu oku, türü işaretle | Cause/Effect/Opinion |
+| 3–8 | Plan: 3 madde + örnek | Kağıda yaz |
+| 8–13 | Introduction | Thesis son cümle |
+| 13–35 | Body ×3 | PEEL + For example |
+| 35–40 | Conclusion | To sum up… |
+| 40–45 | Kontrol | affect/effect, kelime sayısı |
+
+> [!WARNING]
+> **Son 5 dakika:** Yeni paragraf ekleme — sadece düzelt: büyük harf, noktalama, bağlaç virgülü.
+
+---
+
+# 11 · 20 alıştırma konusu
+
+| # | Tür | Konu |
+|---|-----|------|
+| 1 | Cause | Causes of climate change |
+| 2 | Cause | Why teenagers drop out of school |
+| 3 | Cause | Causes of stress in modern life |
+| 4 | Cause | Why fast food is popular |
+| 5 | Cause | Causes of water pollution |
+| 6 | Effect | Effects of smoking on health |
+| 7 | Effect | Effects of tourism on small towns |
+| 8 | Effect | Effects of remote work |
+| 9 | Effect | Effects of plastic waste |
+| 10 | Effect | Effects of violent video games |
+| 11 | Opinion | School uniforms — agree? |
+| 12 | Opinion | Zoos should be closed |
+| 13 | Opinion | Online learning vs classroom |
+| 14 | Opinion | Public transport should be free |
+| 15 | Opinion | Mobile phones banned at school |
+| 16 | Cause+Effect | Fast food — causes & effects |
+| 17 | Cause+Effect | Urbanisation |
+| 18 | Cause+Effect | Social media addiction |
+| 19 | Opinion | Voting age should be 16 |
+| 20 | Opinion | Homework (yukarıdaki örnek) |
+
+---
+
+## 🎯 Son kontrol listesi
 
 - [ ] 250+ kelime
-- [ ] Girişte thesis var
-- [ ] Her paragrafta topic sentence var
-- [ ] En az 2 *For example* / *For instance*
-- [ ] Cause’da “why”, Effect’te “so what” baskın
-- [ ] Opinion’da *In my opinion* ve (mümkünse) *However*
+- [ ] Thesis girişin sonunda
+- [ ] 3 body + PEEL
+- [ ] En az 2 örnek cümlesi
+- [ ] Doğru essay türü (cause/effect/opinion)
+- [ ] *However* (opinion’da)
+- [ ] Formal kelime (kids → children)
+- [ ] *affect* vs *effect* doğru
 - [ ] Sonuçta yeni argüman yok
-- [ ] *affect* / *effect* doğru kullanıldı
 
 ---
 
-## 9. Hızlı karşılaştırma
+<div align="center">
 
-| Tür | Odak | Bağlaç örnekleri |
-|-----|------|------------------|
-| **Cause** | Nedenler | because, due to, one reason is |
-| **Effect** | Sonuçlar | therefore, consequently, as a result |
-| **Opinion** | Görüş + gerekçe | In my opinion, I believe, However |
+**Başarılar — B1+ yazma sınavınızda.**
 
----
+![Good luck](https://img.shields.io/badge/İyi_şanslar-Write_with_confidence-10B981?style=for-the-badge)
 
-## Alıştırma konuları
+*Son güncelleme: Cause ×2 · Effect ×2 · Opinion ×2 · 150+ kelime · Renkli trick kutuları*
 
-1. **Cause:** Causes of unemployment in young people  
-2. **Effect:** Effects of eating fast food regularly  
-3. **Opinion:** Online education is better than traditional classrooms. Do you agree?
-
----
-
-*Başarılar — B1+ yazma sınavınızda.*
+</div>
